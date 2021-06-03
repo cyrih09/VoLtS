@@ -1,2 +1,0 @@
-# VoLtS
-hardware and electronics
